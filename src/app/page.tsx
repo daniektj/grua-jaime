@@ -8,7 +8,7 @@ export default function Home() {
           Grua Gato Bronco
         </h1>
         <Image
-          className="dark:invert rounded-[24px]"
+          className="rounded-[24px]"
           src="/grua-jaime.jpg"
           alt="Next.js logo"
           width={600}
