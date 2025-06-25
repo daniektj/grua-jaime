@@ -16,7 +16,7 @@ export default function Home() {
           priority
         />
         <h3 className="text-center text-2xl">
-          Contacto: +52 (663) 373 9427
+          Contacto: +52 (663) 496-36-97
         </h3>
 
 
